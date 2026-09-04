@@ -175,3 +175,10 @@ Open `SmartInventoryManager.java` and run the Java application.
 
 The project uses standard Java and Java Swing and does not require external libraries.
 
+---
+
+## 👨‍💻 Author
+
+**Sujal Patil**
+
+
